@@ -23,7 +23,7 @@ Developed under the **Database Programming (BIIT 1031)** course at the **Interna
 - [Overview](#-1-overview)
 - [Executive Summary](#-2-executive-summary) 
 - [Methodology](#%EF%B8%8F-3-methodology)
-- [Key Findings & SQL, PL/SQL Highlights](#-4-key-findings--sqlplsql-highlights)
+- [Key Findings & SQL, PL/SQL Highlights](#-4-key-findings--sql-plsql-highlights)
 - [Recommendations](#-5-recommendations)
 - [Limitations](#%EF%B8%8F-6-limitations)
 - [Project Impact](#-7-project-impact)

@@ -112,7 +112,7 @@ The database consists of 5 primary entities organized in Third Normal Form (3NF)
 
 ---
 
-## 🔑 4. Key Findings & SQL/PLSQL Highlights
+## 🔑 4. Key Findings & SQL, PL/SQL Highlights
 
 ### 1. Complex Analytical Queries (SQL Data Mining)
 

@@ -27,7 +27,7 @@ Developed under the **Database Programming (BIIT 1031)** course at the **Interna
 - [Recommendations](#-5-recommendations)
 - [Limitations](#%EF%B8%8F-6-limitations)
 - [Project Impact](#-7-project-impact)
-- [Dashboard Overview](#-8-web-application-prototype)
+- [Web Application Prototype](#%EF%B8%8F-8-web-application-prototype)
 
 ---
 
